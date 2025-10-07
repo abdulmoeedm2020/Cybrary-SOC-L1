@@ -1,12 +1,21 @@
 # Cybrary-SOC-L1
 
+╔══════════════════════════════════════════════════════════╗
+║   CYBRARY // SOC ANALYST LEVEL 1                        ║
+║──────────────────────────────────────────────────────────║
+║  ▸ Real-World Blue Team Skills                          ║
+║  ▸ SIEM • Log Analysis • Threat Hunting • Triage         ║
+║  ▸ Incident Response • Malware Indicators • Escalation   ║
+╚══════════════════════════════════════════════════════════╝
+       🧩 "Detect · Analyze · Respond · Repeat"
 
-#📘 Cybrary — SOC Analyst L1
+
+📘 Cybrary — SOC Analyst L1
 
 Short description:
 A practical roadmap and lab-driven collection to learn the fundamentals required for a Security Operations Center (SOC) Level 1 analyst role — built to mirror Cybrary's SOC-L1 style content: log monitoring, triage, basic incident response, and SIEM fundamentals.
 
-#🎯 Learning Objectives
+🎯 Learning Objectives
 
 Understand SOC roles & shift handoffs (L1 responsibilities).
 
